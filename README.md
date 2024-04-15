@@ -1,1 +1,1 @@
-# chrome-extensions
+This repository contains three Chrome extensions that I created as a learning project to understand the anatomy and functionality of browser extensions. These extensions were developed with the goal of gaining hands-on experience in building and deploying browser extensions, as well as exploring the various features and capabilities of the Chrome extension platform.
